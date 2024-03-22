@@ -6,4 +6,4 @@ link
     [click here](https://medium.com/@dishnusrinivasan16/difference-between-http-1-1-and-http-2-1de794715381)
 ## Objects And Its Internal Representation In JavaScript
 link
-    [click here]([https://medium.com/@dishnusrinivasan16/newtons-second-law-aba37018be22](https://medium.com/@dishnusrinivasan16/objects-and-its-internal-representation-in-javascript-d1da2d19d300)https://medium.com/@dishnusrinivasan16/objects-and-its-internal-representation-in-javascript-d1da2d19d300)
+    [click here](https://medium.com/@dishnusrinivasan16/objects-and-its-internal-representation-in-javascript-d1da2d19d300)
